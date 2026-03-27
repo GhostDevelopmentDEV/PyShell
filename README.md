@@ -1,7 +1,9 @@
 # PyShell
-**PyShell** - custom shell for executing commands on Windows/Linux
-It has extensive list of commands for work with system.
+**GhostDEV's PyShell** is a custom shell for executing commands with Graphical User Interface
+PyShell has some commands to interact with OS
 
-# Dependences
-* Python 2.7+
-  * Colorama
+> [!WARNING]
+> The program may contain some bugs and errors. If you notice any errors, please submit an issue request in **Issues**.
+> 
+> Program was developed in Windows 10, so it may not be runned on others OS
+
